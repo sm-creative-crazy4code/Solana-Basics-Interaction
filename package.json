@@ -1,0 +1,18 @@
+{
+  "name": "firstsolanaDAPP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+    "@digitak/esrun": "^3.2.25",
+    "@solana-developers/node-helpers": "^1.0.4",
+    "@solana/web3.js": "^1.78.7",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
